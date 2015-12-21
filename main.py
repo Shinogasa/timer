@@ -15,6 +15,7 @@ if __name__ == "__main__":
     try:
         message = "hello"
 
+	#USBスピーカーの設定　必要に応じて
         #os.system('lsusb')
         #os.system('sudo alsa unload')
         #os.system('sudo modprobe snd_usb_audio')
